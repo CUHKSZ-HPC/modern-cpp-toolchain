@@ -220,7 +220,7 @@ clangd 使用的是 clang 的报错方式，报错信息更全更友好，warnin
 
 特别地，因为 lldb-mi 被废弃了，所以如果你要使用 lldb 调试的话，为了方便，只建议使用 CodeLLDB。
 
-GDB 的话，我推荐使用 vscode-cpptools。
+GDB 的话，两者都可以。
 
 - CMake && CMake Tools
 
