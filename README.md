@@ -2,6 +2,8 @@
 
 See [modern-cpp-toolchain-slides.pdf](./modern-cpp-toolchain-slides.pdf) for slides.
 
+See [modern-cpp-toolchain-slides.pdf](./modern-cpp-toolchain-slides-en.pdf) for english version.
+
 See [modern-cpp-template](./modern-cpp-template) for a template project.
 
 ## This project uses [Slidev](https://github.com/slidevjs/slidev)
